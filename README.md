@@ -1,11 +1,9 @@
-# UD-CodeDevProjects
+# Deploy Static Website on AWS
 
-This is my first UD CodeDev Project to Deploy Static Website on AWS
-
-Website Files
+This is my first Udacity Code Developer Nanodegree Project to Deploy a Static Website on AWS S3
 
 CRITERIA
-I have met the required SPECIFICATIONS as follows:
+I have met the required SPECIFICATIONS per the rubrics as follows:
 
 Created a S3 bucket.
 The S3 bucket is visible in the AWS Management console.

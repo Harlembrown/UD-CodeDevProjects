@@ -21,5 +21,5 @@ CloudFront has been configured to retrieve and distribute website files.
 Web Browser Access
 The website is publicly accessible to anyone on the Internet via a web browser. 
 Here is my CloudFront endpoint URL for the website: http://djrsbtt8ma9p0.cloudfront.net/
-To Make Your Project Stand Out I customize my website by changing some of the text. The name is “Columbus Pressley's Travel Blog”.
+To make my project stand out I customized my website by naming it “Columbus Pressley's Travel Blog”.
 I also changed the background image of my website to display my favorite vacation photo of downtown Miami, FL.
